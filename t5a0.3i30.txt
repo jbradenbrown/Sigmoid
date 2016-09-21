@@ -1,0 +1,34 @@
+After iteration 1: w(Gee) = 0.0000, w(Fee) = 0.0000, w(Bee) = -0.0375, output = 0.4906
+After iteration 2: w(Gee) = -0.0368, w(Fee) = 0.0000, w(Bee) = -0.0743, output = 0.4723
+After iteration 3: w(Gee) = -0.0368, w(Fee) = -0.0361, w(Bee) = -0.1103, output = 0.4635
+After iteration 4: w(Gee) = 0.0038, w(Fee) = 0.0045, w(Bee) = -0.0698, output = 0.4846
+After iteration 5: w(Gee) = 0.0038, w(Fee) = 0.0045, w(Bee) = -0.1059, output = 0.4735
+After iteration 6: w(Gee) = -0.0317, w(Fee) = 0.0045, w(Bee) = -0.1414, output = 0.4568
+After iteration 7: w(Gee) = -0.0317, w(Fee) = -0.0302, w(Bee) = -0.1762, output = 0.4486
+After iteration 8: w(Gee) = 0.0097, w(Fee) = 0.0111, w(Bee) = -0.1348, output = 0.4715
+After iteration 9: w(Gee) = 0.0097, w(Fee) = 0.0111, w(Bee) = -0.1696, output = 0.4577
+After iteration 10: w(Gee) = -0.0246, w(Fee) = 0.0111, w(Bee) = -0.2039, output = 0.4431
+After iteration 11: w(Gee) = -0.0246, w(Fee) = -0.0225, w(Bee) = -0.2375, output = 0.4354
+After iteration 12: w(Gee) = 0.0173, w(Fee) = 0.0195, w(Bee) = -0.1956, output = 0.4604
+After iteration 13: w(Gee) = 0.0173, w(Fee) = 0.0195, w(Bee) = -0.2291, output = 0.4430
+After iteration 14: w(Gee) = -0.0159, w(Fee) = 0.0195, w(Bee) = -0.2623, output = 0.4309
+After iteration 15: w(Gee) = -0.0159, w(Fee) = -0.0130, w(Bee) = -0.2947, output = 0.4237
+After iteration 16: w(Gee) = 0.0265, w(Fee) = 0.0294, w(Bee) = -0.2523, output = 0.4510
+After iteration 17: w(Gee) = 0.0265, w(Fee) = 0.0294, w(Bee) = -0.2846, output = 0.4293
+After iteration 18: w(Gee) = -0.0056, w(Fee) = 0.0294, w(Bee) = -0.3168, output = 0.4201
+After iteration 19: w(Gee) = -0.0056, w(Fee) = -0.0021, w(Bee) = -0.3483, output = 0.4133
+After iteration 20: w(Gee) = 0.0371, w(Fee) = 0.0406, w(Bee) = -0.3055, output = 0.4433
+After iteration 21: w(Gee) = 0.0371, w(Fee) = 0.0406, w(Bee) = -0.3366, output = 0.4166
+After iteration 22: w(Gee) = 0.0059, w(Fee) = 0.0406, w(Bee) = -0.3678, output = 0.4105
+After iteration 23: w(Gee) = 0.0059, w(Fee) = 0.0100, w(Bee) = -0.3984, output = 0.4041
+After iteration 24: w(Gee) = 0.0489, w(Fee) = 0.0530, w(Bee) = -0.3554, output = 0.4370
+After iteration 25: w(Gee) = 0.0489, w(Fee) = 0.0530, w(Bee) = -0.3854, output = 0.4048
+After iteration 26: w(Gee) = 0.0185, w(Fee) = 0.0530, w(Bee) = -0.4158, output = 0.4020
+After iteration 27: w(Gee) = 0.0185, w(Fee) = 0.0232, w(Bee) = -0.4455, output = 0.3960
+After iteration 28: w(Gee) = 0.0617, w(Fee) = 0.0664, w(Bee) = -0.4024, output = 0.4319
+After iteration 29: w(Gee) = 0.0617, w(Fee) = 0.0664, w(Bee) = -0.4312, output = 0.3938
+After iteration 30: w(Gee) = 0.0321, w(Fee) = 0.0664, w(Bee) = -0.4609, output = 0.3944
+
+Accuracy on training set (4 instances): 75.0%
+
+Accuracy on test set (4 instances): 75.0%
